@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb11c635-cb11-4d9d-a8b2-202e3b1277a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608961533240</updated>
       <workItem from="1608961537570" duration="3977000" />
+      <workItem from="1608965708189" duration="22000" />
     </task>
     <servers />
   </component>
@@ -71,5 +70,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

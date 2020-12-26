@@ -58,6 +58,7 @@ $images = getImages($conn);
         <tbody>
         <tr>
             <?php
+            // loop to get images
             foreach ($images as $item) {
                 ?>
                 <td>
